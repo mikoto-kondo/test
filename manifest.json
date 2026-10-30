@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "タイプ相性表",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "タイプ相性表",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "全ポケモンのタイプ相性と弱点を爆速で検索するツール",
+  "id": "pokemon-type-checker",
+  "lang": "ja"
+}
